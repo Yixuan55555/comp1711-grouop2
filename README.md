@@ -1,2 +1,2 @@
-# comp1711-grouop2
-initial repository for COMP1711 materials
+# comp1711-group2
+Initial repository for COMP1711 materials
