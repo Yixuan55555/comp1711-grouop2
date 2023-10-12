@@ -11,7 +11,7 @@ int main(){
 
     sum = a + b;
 
-    printf("The sum is: %f", sum);
+    printf("The sum is: %.3f\n", sum);
 
     return 0;
 
