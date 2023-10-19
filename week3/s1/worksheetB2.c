@@ -5,11 +5,11 @@ int main(){
     printf("What is your number?");
     scanf("%d", &number);
 
-    if(number %5 = 0)
+    if(number %5 == 0)
     {
         printf("The number is divisible by 5");
     }
-    else if (number %4 = 0)
+    else if (number %4 == 0)
     {
         printf("The number is divisible by 4");
     }
