@@ -13,5 +13,4 @@ int main ()
     int z = sum(5, y); // calling our new function
 
     printf ("The sum of 5 and %d is %d\n", y, z);
-    
 }
